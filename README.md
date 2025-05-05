@@ -1,6 +1,6 @@
 Title: Drivers Coupon Acceptance Rate Analysis
 
-Link to Readme file: https://github.com/deepakkaushik72/PAA_5_1/edit/main/README.md
+Link to Readme file: https://github.com/deepakkaushik72/PAA_5_1/blob/main/README.md)
 
 Link to Code (ipynb file): https://github.com/deepakkaushik72/PAA_5_1/blob/main/prompt.ipynb
 
