@@ -56,7 +56,7 @@
 - Positive correlation between "Direction_opp to toCoupon_GEQ25 and toCoupon_GEQ15" AND "toCoupon_GEQ25 and toCoupon_GEQ15"
 - Negative correlation between "Response (Y) and toCoupon_GEQ25" AND "Response (Y) and Expiration"
 
-  8.2  Findings / Analysis Results
+8.2  Findings / Analysis Results
 
 -  Overall Coupons Acceptance Rate is 56.8% (including all Coupon categories)
 -  Coffee House Coupons accounts for ~32% of Total Coupons (~4,000 out of 12,684)
