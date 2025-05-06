@@ -26,6 +26,7 @@
 - Data Source: UCI Machine Learning Repository
 - 5 different types of coupons: Less expensive restaurants (under $20), coffee houses, carryout and takeaway, bars, and more expensive restaurants ($20–$50).
 - Data set has 12684 records for each customer the Survey was administered
+- There are 74 duplicates that have been removed from original data set. So final Data dataframe has 12610
 - 26 Features or Columns: ['destination', 'passanger', 'weather', 'temperature', 'time', 'coupon', 'expiration', 'gender', 'age'', ………'Y']
    
   5.2  Tools & Technologies
